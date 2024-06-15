@@ -106,11 +106,11 @@ link-col: "#00FFF00"
 hover-col: "#FF0000"
 navbar-col: "#FF0000"
 navbar-text-col: "#00FF00"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+navbar-border-col: "#FF0000"
+footer-col: "#FF0000"
+footer-text-col: "#00FF00"
+footer-link-col: "#00FF00"
+footer-hover-col: "#00FF00"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -224,7 +224,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Michigan"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
