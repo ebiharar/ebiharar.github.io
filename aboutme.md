@@ -4,12 +4,13 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Ryo Ebihara. This page is set up for my **CSE 232 Extra Credit Assignment**
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+The following documents were used to set up this website:
+[Link 1](https://cse232summer-msu.github.io/assets/assignments/CSE_232_Assignment_6.pdf)
+[Link 2](https://cse232summer-msu.github.io/assets/assignments/CSE_232_Extra_Credit_Assignment.pdf)
 
-What else do you need?
+I hope these edits gain me full marks
 
 ### My story
 
