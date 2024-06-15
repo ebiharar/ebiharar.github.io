@@ -27,7 +27,7 @@ Table test:
 | Week | Three | Quiz | [Link](https://cse232summer-msu.github.io/assets/week3/quizzes/CSE_232_Flash_Quiz_4.pdf) |
 | Week| Four | Quiz | [Link](https://cse232summer-msu.github.io/assets/week4/quizzes/Week4_Sample_Questions_1.pdf) |
 
-Favorite formula: <br\> $$(e ^i ^\pi) + 1 = 0$$
+Favorite formula: <br/> $$e^{i \pi} + 1 = 0$$
 
 Image of crepe centered test:
 ![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
@@ -45,7 +45,7 @@ int main() {
 
 Code with syntax highlighting test:
 
-```C++
+```cpp
 #include <iostream>
 
 int main() {
