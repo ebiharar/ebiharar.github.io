@@ -29,8 +29,8 @@ Table test:
 
 Favorite formula: <br/> $$e^{i \pi} + 1 = 0$$
 
-Image of crepe centered test:
-![Crepe](https://pbs.twimg.com/profile_images/996473086361919489/nU_DabyM_400x400.jpg){: .mx-auto.d-block :}
+Image of MSU Logo test:
+![MSU logo](https://pbs.twimg.com/profile_images/996473086361919489/nU_DabyM_400x400.jpg){: .mx-auto.d-block :}
 
 Code chunk test:
 
