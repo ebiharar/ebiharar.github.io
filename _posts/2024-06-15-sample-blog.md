@@ -30,7 +30,7 @@ Table test:
 Favorite formula: <br/> $$e^{i \pi} + 1 = 0$$
 
 Image of crepe centered test:
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+![Crepe](https://pbs.twimg.com/profile_images/996473086361919489/nU_DabyM_400x400.jpg){: .mx-auto.d-block :}
 
 Code chunk test:
 
