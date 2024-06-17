@@ -16,7 +16,7 @@ This is a piece of my progress in CSE 232, mainly from this [website](https://cs
 
 ## Secondary Heading Test 
 
-[Link to different site test](https://cse232summer-msu.github.io/home/) <br/> [Link to local site test](#url_test).
+[Link to different site test](https://cse232summer-msu.github.io/home/) <br/> [Link to local site test](#url_test)
 
 Table test:
 
@@ -29,7 +29,7 @@ Table test:
 
 Favorite formula: <br/> $$e^{i \pi} + 1 = 0$$
 
-Image of MSU Logo test:
+Image of MSU Logo centered test:
 ![MSU logo](https://pbs.twimg.com/profile_images/996473086361919489/nU_DabyM_400x400.jpg){: .mx-auto.d-block :}
 
 Code chunk test:
