@@ -16,7 +16,7 @@ This is a piece of my progress in CSE 232, mainly from this [website](https://cs
 
 ## Secondary Heading Test 
 
-[Link to different site test](https://cse232summer-msu.github.io/home/) <br/> [Link to locat site test](#url_test).
+[Link to different site test](https://cse232summer-msu.github.io/home/) <br/> [Link to local site test](#url_test).
 
 Table test:
 
